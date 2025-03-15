@@ -113,8 +113,6 @@ def get_speech_info(input):
         else:
             # Count words only before the first parentheses
             winner_text = joined_speeches.split(':')[0].strip()  # Get text before '('
-            print(words_no_hyphens)
-            print(winner_text)
             word_count = str(len(words_no_hyphens) - len(winner_text.split()))
         
         header_written = False  # Flag to track if the header has been written
