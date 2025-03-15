@@ -1,0 +1,320 @@
+year,category,film,winner,words
+1942 (15th) Academy Awards,Actor,Yankee Doodle Dandy,James Cagney,98
+1946 (19th) Academy Awards,Actor,The Best Years of Our Lives,Fredric March (not present; accepted by Cathy O'Donnell),56
+1947 (20th) Academy Awards,Actor,A Double Life,Ronald Colman,96
+1949 (22nd) Academy Awards,Actor,All the King's Men,Broderick Crawford,29
+1950 (23rd) Academy Awards,Actor,Cyrano de Bergerac,José Ferrer (accepted via open audio circuit from New York City; statuette accepted by presenter in Hollywood),212
+1951 (24th) Academy Awards,Actor,The African Queen,Humphrey Bogart,73
+1952 (25th) Academy Awards,Actor,High Noon,Gary Cooper (not present; accepted by John Wayne),159
+1953 (26th) Academy Awards,Actor,Stalag 17,William Holden,4
+1954 (27th) Academy Awards,Actor,On the Waterfront,Marlon Brando,64
+1955 (28th) Academy Awards,Actor,Marty,Ernest Borgnine,61
+1956 (29th) Academy Awards,Actor,The King and I,Yul Brynner,22
+1957 (30th) Academy Awards,Actor,The Bridge on the River Kwai,Alec Guinness (not present; accepted by Jean Simmons),79
+1958 (31st) Academy Awards,Actor,Separate Tables,David Niven,36
+1959 (32nd) Academy Awards,Actor,Ben-Hur,Charlton Heston,131
+1960 (33rd) Academy Awards,Actor,Elmer Gantry,Burt Lancaster,76
+1961 (34th) Academy Awards,Actor,Judgment at Nuremberg,Maximilian Schell,104
+1962 (35th) Academy Awards,Actor,To Kill a Mockingbird,Gregory Peck,74
+1963 (36th) Academy Awards,Actor,Lilies of the Field,Sidney Poitier,52
+1964 (37th) Academy Awards,Actor,My Fair Lady,Rex Harrison,86
+1965 (38th) Academy Awards,Actor,Cat Ballou,Lee Marvin,46
+1966 (39th) Academy Awards,Actor,A Man for All Seasons,Paul Scofield (not present; accepted by actress Wendy Hiller),62
+1967 (40th) Academy Awards,Actor,In the Heat of the Night,Rod Steiger,120
+1968 (41st) Academy Awards,Actor,Charly,Cliff Robertson (not present; accepted by Frank Sinatra),44
+1969 (42nd) Academy Awards,Actor,True Grit,John Wayne,127
+1970 (43rd) Academy Awards,Actor,Patton,George C. Scott (not present; accepted by producer Frank McCarthy),44
+1971 (44th) Academy Awards,Actor,The French Connection,Gene Hackman,143
+1972 (45th) Academy Awards,Actor,The Godfather,Marlon Brando (not present; award refused by Sacheen Littlefeather (aka Marie Cruz)),141
+1973 (46th) Academy Awards,Actor,Save the Tiger,Jack Lemmon,240
+1974 (47th) Academy Awards,Actor,Harry and Tonto,Art Carney,59
+1975 (48th) Academy Awards,Actor,One Flew over the Cuckoo's Nest,Jack Nicholson,106
+1976 (49th) Academy Awards,Actor,Network,Peter Finch (accepted by Paddy Chayefsky and Mrs. Eletha Finch),196
+1977 (50th) Academy Awards,Actor,The Goodbye Girl,Richard Dreyfuss,78
+1978 (51st) Academy Awards,Actor,Coming Home,Jon Voight,317
+1979 (52nd) Academy Awards,Actor,Kramer vs. Kramer,Dustin Hoffman,362
+1980 (53rd) Academy Awards,Actor,Raging Bull,Robert De Niro,240
+1981 (54th) Academy Awards,Actor,On Golden Pond,"Henry Fonda (not present; accepted by his daughter, Jane Fonda)",590
+1982 (55th) Academy Awards,Actor,Gandhi,Ben Kingsley,123
+1983 (56th) Academy Awards,Actor,Tender Mercies,Robert Duvall,265
+1984 (57th) Academy Awards,Actor,Amadeus,F. Murray Abraham,127
+1985 (58th) Academy Awards,Actor,Kiss of the Spider Woman,William Hurt,56
+1986 (59th) Academy Awards,Actor,The Color of Money,Paul Newman (not present; accepted by Robert E. Wise),107
+1987 (60th) Academy Awards,Actor,Wall Street,Michael Douglas,316
+1988 (61st) Academy Awards,Actor,Rain Man,Dustin Hoffman,327
+1989 (62nd) Academy Awards,Actor,My Left Foot,Daniel Day Lewis,111
+1990 (63rd) Academy Awards,Actor,Reversal of Fortune,Jeremy Irons,126
+1991 (64th) Academy Awards,Actor,The Silence of the Lambs,Anthony Hopkins,159
+1992 (65th) Academy Awards,Actor,Scent of a Woman,Al Pacino,472
+1993 (66th) Academy Awards,Actor,Philadelphia,Tom Hanks,416
+1994 (67th) Academy Awards,Actor,Forrest Gump,Tom Hanks,230
+1995 (68th) Academy Awards,Actor,Leaving Las Vegas,Nicolas Cage,185
+1996 (69th) Academy Awards,Actor,Shine,Geoffrey Rush,226
+1997 (70th) Academy Awards,Actor,As Good as It Gets,Jack Nicholson,195
+1998 (71st) Academy Awards,Actor,Life Is Beautiful,Roberto Benigni,199
+1999 (72nd) Academy Awards,Actor,American Beauty,Kevin Spacey,261
+2000 (73rd) Academy Awards,Actor,Gladiator,Russell Crowe,254
+2001 (74th) Academy Awards,Actor,Training Day,Denzel Washington,302
+2002 (75th) Academy Awards,Actor,The Pianist,Adrien Brody,462
+2003 (76th) Academy Awards,Actor,Mystic River,Sean Penn,139
+2004 (77th) Academy Awards,Actor,Ray,Jamie Foxx,491
+2005 (78th) Academy Awards,Actor,Capote,Philip Seymour Hoffman,208
+2006 (79th) Academy Awards,Actor,The Last King of Scotland,Forest Whitaker,297
+2007 (80th) Academy Awards,Actor,There Will Be Blood,Daniel Day-Lewis,199
+2008 (81st) Academy Awards,Actor,Milk,Sean Penn,300
+2009 (82nd) Academy Awards,Actor,Crazy Heart,Jeff Bridges,302
+2010 (83rd) Academy Awards,Actor,The King's Speech,Colin Firth,320
+2011 (84th) Academy Awards,Actor,The Artist,Jean Dujardin,122
+2012 (85th) Academy Awards,Actor,Lincoln,Daniel Day-Lewis,254
+2013 (86th) Academy Awards,Actor,Dallas Buyers Club,Matthew McConaughey,549
+2014 (87th) Academy Awards,Actor,The Theory of Everything,Eddie Redmayne,195
+2015 (88th) Academy Awards,Actor,The Revenant,Leonardo DiCaprio,402
+2016 (89th) Academy Awards,Actor,Manchester by the Sea,Casey Affleck,218
+2017 (90th) Academy Awards,Actor,Darkest Hour,Gary Oldman,290
+2018 (91st) Academy Awards,Actor,Bohemian Rhapsody,Rami Malek,352
+2019 (92nd) Academy Awards,Actor,Joker,Joaquin Phoenix,457
+2020 (93rd) Academy Awards,Actor,The Father,Anthony Hopkins (not present; accepted by presenter),N/A
+2021 (94th) Academy Awards,Actor,King Richard,Will Smith,464
+2022 (95th) Academy Awards,Actor,The Whale,Brendan Fraser,240
+2023 (96th) Academy Awards,Actor,Oppenheimer,Cillian Murphy,168
+1939 (12th) Academy Awards,Actress,Gone with the Wind,Vivien Leigh,94
+1941 (14th) Academy Awards,Actress,Suspicion,Joan Fontaine,42
+1942 (15th) Academy Awards,Actress,Mrs. Miniver,Greer Garson,452
+1946 (19th) Academy Awards,Actress,To Each His Own,Olivia de Havilland,218
+1947 (20th) Academy Awards,Actress,The Farmer's Daughter,Loretta Young,221
+1949 (22nd) Academy Awards,Actress,The Heiress,Olivia de Havilland,31
+1950 (23rd) Academy Awards,Actress,Born Yesterday,Judy Holliday (not present; accepted by Ethel Barrymore),46
+1951 (24th) Academy Awards,Actress,A Streetcar Named Desire,Vivien Leigh (not present; accepted by Greer Garson),43
+1952 (25th) Academy Awards,Actress,"Come Back, Little Sheba",Shirley Booth (accepted in New York),100
+1953 (26th) Academy Awards,Actress,Roman Holiday,Audrey Hepburn (accepted in New York),33
+1954 (27th) Academy Awards,Actress,The Country Girl,Grace Kelly,33
+1955 (28th) Academy Awards,Actress,The Rose Tattoo,Anna Magnani (not present; accepted by actress Marisa Pavan),82
+1956 (29th) Academy Awards,Actress,Anastasia,Ingrid Bergman (not present; accepted by Cary Grant),132
+1957 (30th) Academy Awards,Actress,The Three Faces of Eve,Joanne Woodward,41
+1958 (31st) Academy Awards,Actress,I Want to Live!,Susan Hayward,39
+1959 (32nd) Academy Awards,Actress,Room at the Top,Simone Signoret,78
+1960 (33rd) Academy Awards,Actress,Butterfield 8,Elizabeth Taylor,30
+1961 (34th) Academy Awards,Actress,Two Women,Sophia Loren (not present; accepted by Greer Garson),71
+1962 (35th) Academy Awards,Actress,The Miracle Worker,Anne Bancroft (not present; accepted by Joan Crawford),28
+1963 (36th) Academy Awards,Actress,Hud,Patricia Neal (not present; accepted by Annabella),55
+1964 (37th) Academy Awards,Actress,Mary Poppins,Julie Andrews,97
+1965 (38th) Academy Awards,Actress,Darling,Julie Christie,24
+1966 (39th) Academy Awards,Actress,Who's Afraid of Virginia Woolf?,Elizabeth Taylor (not present; accepted by Anne Bancroft),36
+1967 (40th) Academy Awards,Actress,Guess Who's Coming to Dinner,Katharine Hepburn (not present; accepted by George Cukor),44
+1968 (41st) Academy Awards,Actress,The Lion in Winter,Katharine Hepburn (not present; accepted by director Anthony Harvey),50
+1968 (41st) Academy Awards,Actress,Funny Girl,Barbra Streisand,177
+1969 (42nd) Academy Awards,Actress,The Prime of Miss Jean Brodie,Maggie Smith (not present; accepted by Alice Ghostley),74
+1970 (43rd) Academy Awards,Actress,Women in Love,Glenda Jackson (not present; accepted by Juliet Mills),41
+1971 (44th) Academy Awards,Actress,Klute,Jane Fonda,41
+1972 (45th) Academy Awards,Actress,Cabaret,Liza Minnelli,58
+1973 (46th) Academy Awards,Actress,A Touch of Class,Glenda Jackson (not present; accepted by director Melvin Frank),119
+1974 (47th) Academy Awards,Actress,Alice Doesn't Live Here Anymore,Ellen Burstyn (not present; accepted by director Martin Scorsese),57
+1975 (48th) Academy Awards,Actress,One Flew over the Cuckoo's Nest,Louise Fletcher,129
+1976 (49th) Academy Awards,Actress,Network,Faye Dunaway,82
+1977 (50th) Academy Awards,Actress,Annie Hall,Diane Keaton,60
+1978 (51st) Academy Awards,Actress,Coming Home,Jane Fonda,367
+1979 (52nd) Academy Awards,Actress,Norma Rae,Sally Field,287
+1980 (53rd) Academy Awards,Actress,Coal Miner's Daughter,Sissy Spacek,137
+1981 (54th) Academy Awards,Actress,On Golden Pond,Katharine Hepburn (not present; accepted by presenter),N/A
+1982 (55th) Academy Awards,Actress,Sophie's Choice,Meryl Streep,231
+1983 (56th) Academy Awards,Actress,Terms of Endearment,Shirley MacLaine,360
+1984 (57th) Academy Awards,Actress,Places in the Heart,Sally Field,144
+1985 (58th) Academy Awards,Actress,The Trip to Bountiful,Geraldine Page,119
+1986 (59th) Academy Awards,Actress,Children of a Lesser God,Marlee Matlin (with sign language interpreter Jack Jason),105
+1987 (60th) Academy Awards,Actress,Moonstruck,Cher,185
+1988 (61st) Academy Awards,Actress,The Accused,Jodie Foster,140
+1989 (62nd) Academy Awards,Actress,Driving Miss Daisy,Jessica Tandy,100
+1990 (63rd) Academy Awards,Actress,Misery,Kathy Bates,189
+1991 (64th) Academy Awards,Actress,The Silence of the Lambs,Jodie Foster,278
+1992 (65th) Academy Awards,Actress,Howards End,Emma Thompson,186
+1993 (66th) Academy Awards,Actress,The Piano,Holly Hunter,264
+1994 (67th) Academy Awards,Actress,Blue Sky,Jessica Lange,201
+1995 (68th) Academy Awards,Actress,Dead Man Walking,Susan Sarandon,317
+1996 (69th) Academy Awards,Actress,Fargo,Frances McDormand,200
+1997 (70th) Academy Awards,Actress,As Good as It Gets,Helen Hunt,271
+1998 (71st) Academy Awards,Actress,Shakespeare in Love,Gwyneth Paltrow,365
+1999 (72nd) Academy Awards,Actress,Boys Don't Cry,Hilary Swank,384
+2000 (73rd) Academy Awards,Actress,Erin Brockovich,Julia Roberts,407
+2001 (74th) Academy Awards,Actress,Monster's Ball,Halle Berry,528
+2002 (75th) Academy Awards,Actress,The Hours,Nicole Kidman,234
+2003 (76th) Academy Awards,Actress,Monster,Charlize Theron,287
+2004 (77th) Academy Awards,Actress,Million Dollar Baby,Hilary Swank,354
+2005 (78th) Academy Awards,Actress,Walk the Line,Reese Witherspoon,436
+2006 (79th) Academy Awards,Actress,The Queen,Helen Mirren,192
+2007 (80th) Academy Awards,Actress,La Vie en Rose,Marion Cotillard,72
+2008 (81st) Academy Awards,Actress,The Reader,Kate Winslet,329
+2009 (82nd) Academy Awards,Actress,The Blind Side,Sandra Bullock,469
+2010 (83rd) Academy Awards,Actress,Black Swan,Natalie Portman,361
+2011 (84th) Academy Awards,Actress,The Iron Lady,Meryl Streep,272
+2012 (85th) Academy Awards,Actress,Silver Linings Playbook,Jennifer Lawrence,118
+2013 (86th) Academy Awards,Actress,Blue Jasmine,Cate Blanchett,513
+2014 (87th) Academy Awards,Actress,Still Alice,Julianne Moore,324
+2015 (88th) Academy Awards,Actress,Room,Brie Larson,178
+2016 (89th) Academy Awards,Actress,La La Land,Emma Stone,294
+2017 (90th) Academy Awards,Actress,"Three Billboards outside Ebbing, Missouri",Frances McDormand,264
+2018 (91st) Academy Awards,Actress,The Favourite,Olivia Colman,318
+2019 (92nd) Academy Awards,Actress,Judy,Renée Zellweger,434
+2020 (93rd) Academy Awards,Actress,Nomadland,Frances McDormand,62
+2021 (94th) Academy Awards,Actress,The Eyes of Tammy Faye,Jessica Chastain,417
+2022 (95th) Academy Awards,Actress,Everything Everywhere All at Once,Michelle Yeoh,215
+2023 (96th) Academy Awards,Actress,Poor Things,Emma Stone,332
+1941 (14th) Academy Awards,Actor in a Supporting Role,How Green Was My Valley,Donald Crisp,147
+1942 (15th) Academy Awards,Actor in a Supporting Role,Johnny Eager,Van Heflin,81
+1946 (19th) Academy Awards,Actor in a Supporting Role,The Best Years of Our Lives,Harold Russell,15
+1947 (20th) Academy Awards,Actor in a Supporting Role,Miracle on 34th Street,Edmund Gwenn,175
+1949 (22nd) Academy Awards,Actor in a Supporting Role,Twelve O'Clock High,Dean Jagger,148
+1950 (23rd) Academy Awards,Actor in a Supporting Role,All about Eve,George Sanders,0
+1951 (24th) Academy Awards,Actor in a Supporting Role,A Streetcar Named Desire,Karl Malden,23
+1952 (25th) Academy Awards,Actor in a Supporting Role,Viva Zapata!,Anthony Quinn (not present; accepted by his wife Katherine DeMille),34
+1953 (26th) Academy Awards,Actor in a Supporting Role,From Here to Eternity,Frank Sinatra,94
+1954 (27th) Academy Awards,Actor in a Supporting Role,The Barefoot Contessa,Edmond O'Brien,14
+1955 (28th) Academy Awards,Actor in a Supporting Role,Mister Roberts,Jack Lemmon,46
+1956 (29th) Academy Awards,Actor in a Supporting Role,Lust for Life,Anthony Quinn,60
+1957 (30th) Academy Awards,Actor in a Supporting Role,Sayonara,Red Buttons,41
+1958 (31st) Academy Awards,Actor in a Supporting Role,The Big Country,Burl Ives,46
+1959 (32nd) Academy Awards,Actor in a Supporting Role,Ben-Hur,Hugh Griffith (not present; accepted by director William Wyler),46
+1960 (33rd) Academy Awards,Actor in a Supporting Role,Spartacus,Peter Ustinov,100
+1961 (34th) Academy Awards,Actor in a Supporting Role,West Side Story,George Chakiris,21
+1962 (35th) Academy Awards,Actor in a Supporting Role,Sweet Bird of Youth,Ed Begley,107
+1963 (36th) Academy Awards,Actor in a Supporting Role,Hud,Melvyn Douglas (not present; accepted by actor Brandon De Wilde),33
+1964 (37th) Academy Awards,Actor in a Supporting Role,Topkapi,Peter Ustinov (not present; accepted by Jonathan Winters),85
+1965 (38th) Academy Awards,Actor in a Supporting Role,A Thousand Clowns,Martin Balsam,61
+1966 (39th) Academy Awards,Actor in a Supporting Role,The Fortune Cookie,Walter Matthau,65
+1967 (40th) Academy Awards,Actor in a Supporting Role,Cool Hand Luke,George Kennedy,35
+1968 (41st) Academy Awards,Actor in a Supporting Role,The Subject Was Roses,Jack Albertson,128
+1969 (42nd) Academy Awards,Actor in a Supporting Role,"They Shoot Horses, Don't They?",Gig Young,114
+1970 (43rd) Academy Awards,Actor in a Supporting Role,Ryan's Daughter,John Mills,116
+1971 (44th) Academy Awards,Actor in a Supporting Role,The Last Picture Show,Ben Johnson,160
+1972 (45th) Academy Awards,Actor in a Supporting Role,Cabaret,Joel Grey,91
+1973 (46th) Academy Awards,Actor in a Supporting Role,The Paper Chase,John Houseman,134
+1974 (47th) Academy Awards,Actor in a Supporting Role,The Godfather Part II,Robert De Niro (not present; accepted by director Francis Ford Coppola),50
+1975 (48th) Academy Awards,Actor in a Supporting Role,The Sunshine Boys,George Burns,161
+1976 (49th) Academy Awards,Actor in a Supporting Role,All the President's Men,Jason Robards,86
+1977 (50th) Academy Awards,Actor in a Supporting Role,Julia,Jason Robards (not present; accepted by presenters),N/A
+1978 (51st) Academy Awards,Actor in a Supporting Role,The Deer Hunter,Christopher Walken,40
+1979 (52nd) Academy Awards,Actor in a Supporting Role,Being There,Melvyn Douglas (not present; accepted by presenters),N/A
+1980 (53rd) Academy Awards,Actor in a Supporting Role,Ordinary People,Timothy Hutton,95
+1981 (54th) Academy Awards,Actor in a Supporting Role,Arthur,John Gielgud (not present; accepted by presenters),N/A
+1982 (55th) Academy Awards,Actor in a Supporting Role,An Officer and a Gentleman,"Louis Gossett, Jr.",115
+1983 (56th) Academy Awards,Actor in a Supporting Role,Terms of Endearment,Jack Nicholson,128
+1984 (57th) Academy Awards,Actor in a Supporting Role,The Killing Fields,Haing S. Ngor,109
+1985 (58th) Academy Awards,Actor in a Supporting Role,Cocoon,Don Ameche,85
+1986 (59th) Academy Awards,Actor in a Supporting Role,Hannah and Her Sisters,Michael Caine (not present; accepted by presenters),N/A
+1987 (60th) Academy Awards,Actor in a Supporting Role,The Untouchables,Sean Connery,142
+1988 (61st) Academy Awards,Actor in a Supporting Role,A Fish Called Wanda,Kevin Kline,189
+1989 (62nd) Academy Awards,Actor in a Supporting Role,Glory,Denzel Washington,146
+1990 (63rd) Academy Awards,Actor in a Supporting Role,Good Fellas,Joe Pesci,6
+1991 (64th) Academy Awards,Actor in a Supporting Role,City Slickers,Jack Palance,214
+1992 (65th) Academy Awards,Actor in a Supporting Role,Unforgiven,Gene Hackman,75
+1993 (66th) Academy Awards,Actor in a Supporting Role,The Fugitive,Tommy Lee Jones,109
+1994 (67th) Academy Awards,Actor in a Supporting Role,Ed Wood,Martin Landau,242
+1995 (68th) Academy Awards,Actor in a Supporting Role,The Usual Suspects,Kevin Spacey,185
+1996 (69th) Academy Awards,Actor in a Supporting Role,Jerry Maguire,"Cuba Gooding, Jr.",203
+1997 (70th) Academy Awards,Actor in a Supporting Role,Good Will Hunting,Robin Williams,150
+1998 (71st) Academy Awards,Actor in a Supporting Role,Affliction,James Coburn,203
+1999 (72nd) Academy Awards,Actor in a Supporting Role,The Cider House Rules,Michael Caine,286
+2000 (73rd) Academy Awards,Actor in a Supporting Role,Traffic,Benicio Del Toro,75
+2001 (74th) Academy Awards,Actor in a Supporting Role,Iris,Jim Broadbent,145
+2002 (75th) Academy Awards,Actor in a Supporting Role,Adaptation,Chris Cooper,113
+2003 (76th) Academy Awards,Actor in a Supporting Role,Mystic River,Tim Robbins,251
+2004 (77th) Academy Awards,Actor in a Supporting Role,Million Dollar Baby,Morgan Freeman,62
+2005 (78th) Academy Awards,Actor in a Supporting Role,Syriana,George Clooney,233
+2006 (79th) Academy Awards,Actor in a Supporting Role,Little Miss Sunshine,Alan Arkin,163
+2007 (80th) Academy Awards,Actor in a Supporting Role,No Country for Old Men,Javier Bardem,155
+2008 (81st) Academy Awards,Actor in a Supporting Role,The Dark Knight,"Heath Ledger (accepted by his father Kim Ledger, mother Sally Bell, and sister Kate Ledger)",197
+2009 (82nd) Academy Awards,Actor in a Supporting Role,Inglourious Basterds,Christoph Waltz,167
+2010 (83rd) Academy Awards,Actor in a Supporting Role,The Fighter,Christian Bale,350
+2011 (84th) Academy Awards,Actor in a Supporting Role,Beginners,Christopher Plummer,220
+2012 (85th) Academy Awards,Actor in a Supporting Role,Django Unchained,Christoph Waltz,140
+2013 (86th) Academy Awards,Actor in a Supporting Role,Dallas Buyers Club,Jared Leto,315
+2014 (87th) Academy Awards,Actor in a Supporting Role,Whiplash,J.K. Simmons,166
+2015 (88th) Academy Awards,Actor in a Supporting Role,Bridge of Spies,Mark Rylance,217
+2016 (89th) Academy Awards,Actor in a Supporting Role,Moonlight,Mahershala Ali,261
+2017 (90th) Academy Awards,Actor in a Supporting Role,"Three Billboards outside Ebbing, Missouri",Sam Rockwell,226
+2018 (91st) Academy Awards,Actor in a Supporting Role,Green Book,Mahershala Ali,198
+2019 (92nd) Academy Awards,Actor in a Supporting Role,Once upon a Time...in Hollywood,Brad Pitt,263
+2020 (93rd) Academy Awards,Actor in a Supporting Role,Judas and the Black Messiah,Daniel Kaluuya,571
+2021 (94th) Academy Awards,Actor in a Supporting Role,CODA,Troy Kotsur (with sign language interpreter Justin Maurer),365
+2022 (95th) Academy Awards,Actor in a Supporting Role,Everything Everywhere All at Once,Ke Huy Quan,230
+2023 (96th) Academy Awards,Actor in a Supporting Role,Oppenheimer,Robert Downey Jr.,216
+1939 (12th) Academy Awards,Actress in a Supporting Role,Gone with the Wind,Hattie McDaniel,120
+1941 (14th) Academy Awards,Actress in a Supporting Role,The Great Lie,Mary Astor,43
+1942 (15th) Academy Awards,Actress in a Supporting Role,Mrs. Miniver,Teresa Wright,64
+1943 (16th) Academy Awards,Actress in a Supporting Role,For Whom the Bell Tolls,Katina Paxinou,145
+1946 (19th) Academy Awards,Actress in a Supporting Role,The Razor's Edge,Anne Baxter,56
+1947 (20th) Academy Awards,Actress in a Supporting Role,Gentleman's Agreement,Celeste Holm,77
+1949 (22nd) Academy Awards,Actress in a Supporting Role,All the King's Men,Mercedes McCambridge,34
+1950 (23rd) Academy Awards,Actress in a Supporting Role,Harvey,Josephine Hull,90
+1951 (24th) Academy Awards,Actress in a Supporting Role,A Streetcar Named Desire,Kim Hunter (not present; accepted by Bette Davis),47
+1952 (25th) Academy Awards,Actress in a Supporting Role,The Bad and the Beautiful,Gloria Grahame,4
+1953 (26th) Academy Awards,Actress in a Supporting Role,From Here to Eternity,Donna Reed,52
+1954 (27th) Academy Awards,Actress in a Supporting Role,On the Waterfront,Eva Marie Saint (accepted in New York),29
+1955 (28th) Academy Awards,Actress in a Supporting Role,East of Eden,Jo Van Fleet,34
+1956 (29th) Academy Awards,Actress in a Supporting Role,Written on the Wind,Dorothy Malone,141
+1957 (30th) Academy Awards,Actress in a Supporting Role,Sayonara,Miyoshi Umeki,50
+1958 (31st) Academy Awards,Actress in a Supporting Role,Separate Tables,Wendy Hiller (not present; accepted by producer Harold Hecht),20
+1959 (32nd) Academy Awards,Actress in a Supporting Role,The Diary of Anne Frank,Shelley Winters,107
+1960 (33rd) Academy Awards,Actress in a Supporting Role,Elmer Gantry,Shirley Jones,74
+1961 (34th) Academy Awards,Actress in a Supporting Role,West Side Story,Rita Moreno,11
+1962 (35th) Academy Awards,Actress in a Supporting Role,The Miracle Worker,Patty Duke,2
+1963 (36th) Academy Awards,Actress in a Supporting Role,The V.I.P.s,Margaret Rutherford (not present; accepted by Peter Ustinov),20
+1964 (37th) Academy Awards,Actress in a Supporting Role,Zorba the Greek,Lila Kedrova,62
+1965 (38th) Academy Awards,Actress in a Supporting Role,A Patch of Blue,Shelley Winters,100
+1966 (39th) Academy Awards,Actress in a Supporting Role,Who's Afraid of Virginia Woolf?,Sandy Dennis (not present; accepted by director Mike Nichols),15
+1967 (40th) Academy Awards,Actress in a Supporting Role,Bonnie and Clyde,Estelle Parsons,81
+1968 (41st) Academy Awards,Actress in a Supporting Role,Rosemary's Baby,Ruth Gordon,80
+1969 (42nd) Academy Awards,Actress in a Supporting Role,Cactus Flower,Goldie Hawn (not present; accepted by Raquel Welch),52
+1970 (43rd) Academy Awards,Actress in a Supporting Role,Airport,Helen Hayes (not present; accepted by Rosalind Russell),60
+1971 (44th) Academy Awards,Actress in a Supporting Role,The Last Picture Show,Cloris Leachman,150
+1972 (45th) Academy Awards,Actress in a Supporting Role,Butterflies Are Free,Eileen Heckart,28
+1973 (46th) Academy Awards,Actress in a Supporting Role,Paper Moon,Tatum O'Neal (accompanied on stage by her grandfather Charles O'Neal),32
+1974 (47th) Academy Awards,Actress in a Supporting Role,Murder on the Orient Express,Ingrid Bergman,147
+1975 (48th) Academy Awards,Actress in a Supporting Role,Shampoo,Lee Grant,110
+1976 (49th) Academy Awards,Actress in a Supporting Role,Network,Beatrice Straight,226
+1977 (50th) Academy Awards,Actress in a Supporting Role,Julia,Vanessa Redgrave,229
+1978 (51st) Academy Awards,Actress in a Supporting Role,California Suite,Maggie Smith,68
+1979 (52nd) Academy Awards,Actress in a Supporting Role,Kramer vs. Kramer,Meryl Streep,47
+1980 (53rd) Academy Awards,Actress in a Supporting Role,Melvin and Howard,Mary Steenburgen,241
+1981 (54th) Academy Awards,Actress in a Supporting Role,Reds,Maureen Stapleton,90
+1982 (55th) Academy Awards,Actress in a Supporting Role,Tootsie,Jessica Lange,82
+1983 (56th) Academy Awards,Actress in a Supporting Role,The Year of Living Dangerously,Linda Hunt,128
+1984 (57th) Academy Awards,Actress in a Supporting Role,A Passage to India,Peggy Ashcroft (not present; accepted by Angela Lansbury),138
+1985 (58th) Academy Awards,Actress in a Supporting Role,Prizzi's Honor,Anjelica Huston,96
+1986 (59th) Academy Awards,Actress in a Supporting Role,Hannah and Her Sisters,Dianne Wiest,133
+1987 (60th) Academy Awards,Actress in a Supporting Role,Moonstruck,Olympia Dukakis,70
+1988 (61st) Academy Awards,Actress in a Supporting Role,The Accidental Tourist,Geena Davis,96
+1989 (62nd) Academy Awards,Actress in a Supporting Role,My Left Foot,Brenda Fricker,138
+1990 (63rd) Academy Awards,Actress in a Supporting Role,Ghost,Whoopi Goldberg,166
+1991 (64th) Academy Awards,Actress in a Supporting Role,The Fisher King,Mercedes Ruehl,252
+1992 (65th) Academy Awards,Actress in a Supporting Role,My Cousin Vinny,Marisa Tomei,81
+1993 (66th) Academy Awards,Actress in a Supporting Role,The Piano,Anna Paquin,50
+1994 (67th) Academy Awards,Actress in a Supporting Role,Bullets over Broadway,Dianne Wiest,177
+1995 (68th) Academy Awards,Actress in a Supporting Role,Mighty Aphrodite,Mira Sorvino,190
+1996 (69th) Academy Awards,Actress in a Supporting Role,The English Patient,Juliette Binoche,59
+1997 (70th) Academy Awards,Actress in a Supporting Role,L.A. Confidential,Kim Basinger,114
+1998 (71st) Academy Awards,Actress in a Supporting Role,Shakespeare in Love,Judi Dench,152
+1999 (72nd) Academy Awards,Actress in a Supporting Role,"Girl, Interrupted",Angelina Jolie,148
+2000 (73rd) Academy Awards,Actress in a Supporting Role,Pollock,Marcia Gay Harden,155
+2001 (74th) Academy Awards,Actress in a Supporting Role,A Beautiful Mind,Jennifer Connelly,165
+2002 (75th) Academy Awards,Actress in a Supporting Role,Chicago,Catherine Zeta-Jones,123
+2003 (76th) Academy Awards,Actress in a Supporting Role,Cold Mountain,Renée Zellweger,318
+2004 (77th) Academy Awards,Actress in a Supporting Role,The Aviator,Cate Blanchett,135
+2005 (78th) Academy Awards,Actress in a Supporting Role,The Constant Gardener,Rachel Weisz,90
+2006 (79th) Academy Awards,Actress in a Supporting Role,Dreamgirls,Jennifer Hudson,184
+2007 (80th) Academy Awards,Actress in a Supporting Role,Michael Clayton,Tilda Swinton,145
+2008 (81st) Academy Awards,Actress in a Supporting Role,Vicky Cristina Barcelona,Penélope Cruz,308
+2009 (82nd) Academy Awards,Actress in a Supporting Role,Precious: Based on the Novel 'Push' by Sapphire,Mo'Nique,116
+2010 (83rd) Academy Awards,Actress in a Supporting Role,The Fighter,Melissa Leo,251
+2011 (84th) Academy Awards,Actress in a Supporting Role,The Help,Octavia Spencer,106
+2012 (85th) Academy Awards,Actress in a Supporting Role,Les Misérables,Anne Hathaway,255
+2013 (86th) Academy Awards,Actress in a Supporting Role,12 Years a Slave,Lupita Nyong'o,257
+2014 (87th) Academy Awards,Actress in a Supporting Role,Boyhood,Patricia Arquette,176
+2015 (88th) Academy Awards,Actress in a Supporting Role,The Danish Girl,Alicia Vikander,229
+2016 (89th) Academy Awards,Actress in a Supporting Role,Fences,Viola Davis,313
+2017 (90th) Academy Awards,Actress in a Supporting Role,"I, Tonya",Allison Janney,190
+2018 (91st) Academy Awards,Actress in a Supporting Role,If Beale Street Could Talk,Regina King,159
+2019 (92nd) Academy Awards,Actress in a Supporting Role,Marriage Story,Laura Dern,213
+2020 (93rd) Academy Awards,Actress in a Supporting Role,Minari,Yuh-Jung Youn,360
+2021 (94th) Academy Awards,Actress in a Supporting Role,West Side Story,Ariana DeBose,329
+2022 (95th) Academy Awards,Actress in a Supporting Role,Everything Everywhere All at Once,Jamie Lee Curtis,173
+2023 (96th) Academy Awards,Actress in a Supporting Role,The Holdovers,Da'Vine Joy Randolph,274
